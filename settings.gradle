@@ -1,0 +1,2 @@
+include ':sensorManager', ':accelerometer', ':camera', ':camera2', ':audiorecord'
+rootProject.name='lab_lesson5'
