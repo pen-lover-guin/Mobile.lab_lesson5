@@ -25,7 +25,7 @@
         android:layout_width="wrap_content"
         android:layout_height="48dp"
         android:layout_marginTop="16dp"
-        android:onClick="onPauseRecord"
+        android:onClick="onStopRecord"
         android:text="stop"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
